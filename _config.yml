@@ -1,6 +1,8 @@
 title: ai textbook
 description: 
-absolute_url: https://technosemiotics.github.io/ai-textbook/
+website: https://technosemiotics.github.io
+basewebsite: /ai-textbook
+permalink: date
 
 collections:
   cases:

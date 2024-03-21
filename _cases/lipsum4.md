@@ -1,6 +1,6 @@
 ---
 title: lipsum 4
-permalink: /lipsum4/
+permalink: cases/lipsum4/
 published: false
 ---
 

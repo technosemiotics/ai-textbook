@@ -1,5 +1,5 @@
 ---
-title: ai textbook | text-only case collection
+
 ---
 
-...
+# ai textbook : text-only case collection

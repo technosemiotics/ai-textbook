@@ -1,6 +1,6 @@
 ---
 title: lipsum 2
-slug: lipsum2
+permalink: /lipsum2/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Erat imperdiet sed euismod nisi porta lorem mollis. Vitae ultricies leo integer malesuada nunc vel risus commodo. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Volutpat ac tincidunt vitae semper. Duis at tellus at urna condimentum mattis. Eu sem integer vitae justo. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Tellus integer feugiat scelerisque varius morbi. Turpis massa tincidunt dui ut ornare lectus. Ridiculus mus mauris vitae ultricies leo integer malesuada. Mattis rhoncus urna neque viverra justo. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Sed risus pretium quam vulputate dignissim suspendisse. Sit amet consectetur adipiscing elit.

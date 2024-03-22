@@ -1,10 +1,10 @@
 <ul class="menu"> 
   {% for page in site.pages %}
-    {% if page.title %}
+
       {% unless menu == false %}
         <li><a href="{{ page.url | relative_url }}">{{ page.title }}&nbsp;&raquo;</a></li>
       {% endunless %}
-    {% endif %}
+
   {% endfor %}
 </ul>
 

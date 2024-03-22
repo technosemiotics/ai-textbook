@@ -1,6 +1,5 @@
 ---
 menu: false
-
 ---
 
 # ai textbook : text-only case collection

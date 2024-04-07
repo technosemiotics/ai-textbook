@@ -1,19 +1,15 @@
 <ul class="menu"> 
-  {% for page in site.pages %}
-
-      {% unless menu == false %}
-        <li><a href="{{ page.url | relative_url }}">{{ page.title }}&nbsp;&raquo;</a></li>
-      {% endunless %}
-
+  {% for doc in site.docs %}
+        <li><a href="{{ doc.url | relative_url }}">{{ doc.title }}&nbsp;&raquo;</a></li>
   {% endfor %}
 </ul>
 
 <ul class="menu"> 
   {% for case in site.cases %}
-    {% unless menu == false %}
+
       {% if case.title %}
         <li><a href="{{ case.url | relative_url }}">{{ case.title }}&nbsp;&raquo;</a></li>
       {% endif %}
-    {% endunless %}  
+ 
   {% endfor %}
 </ul>

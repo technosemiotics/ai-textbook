@@ -4,6 +4,27 @@ website: https://technosemiotics.github.io
 basewebsite: /ai-textbook
 permalink: date
 
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+
 collections:
   cases:
     output: true
+  docs:
+    output: true
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "cases" # a collection in your site, in plural form
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "docs" # a collection in your site, in plural form
+    values:
+      layout: "default"

@@ -1,5 +1,5 @@
 ---
-menu: false
+layout: default
 ---
 
 # ai textbook : text-only case collection

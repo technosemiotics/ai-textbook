@@ -1,4 +1,4 @@
-title: ai textbook
+title: ai case collection
 description: 
 website: https://technosemiotics.github.io
 basewebsite: /ai-textbook
@@ -13,6 +13,8 @@ collections:
     output: true
   docs:
     output: true
+  threads:
+    output: true
 
 
 defaults:
@@ -26,5 +28,11 @@ defaults:
     scope:
       path: ""
       type: "docs" # a collection in your site, in plural form
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "threads" # a collection in your site, in plural form
     values:
       layout: "default"

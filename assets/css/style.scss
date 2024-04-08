@@ -1,25 +1,31 @@
 ---
 ---
 
+
+
 @import "{{ site.theme }}";
 
 body {
   background-color: #222;
-  color:#eEe;
+  color:#eee;
 }
 
 ul.menu, ul.menu li {list-style-type: none;}
-
 ul {padding-inline-start: 0; list-style-type: disclosure-closed}
 
 
 a {font-weight: 500;color: darkturquoise; text-decoration: none;}
 a:hover,a:focus {font-weight: 500; text-decoration: underline; color: darkcyan;}
 
-h1,h2,h3,h4,h5,h6 {font-weight: 500;color: thistle;}
-p.social {text-align: right;}
-ul.social {list-style: none;text-align: right;}
-ul.social li {display: inline-block;font-variant: all-small-caps; font-size: 1.1em;padding: 0.1em;background: aliceblue;}
+strong {color:inherit;}
 
-ul.social li a {font-weight: 600;}
+h1,h2,h5,h6 {font-weight: 300;color: thistle;}
+h3, h4 {font-weight: 600;color: thistle;margin-bottom: 0;}
 
+@media print, screen and (max-width: 960px) {
+  header ul { position: inherit; }
+}
+
+@media print {
+  header {display:none;}
+}

@@ -2,7 +2,10 @@
 layout: default
 ---
 
-# ai textbook : text-only case collection
+# ai case collection : text-only version
 
 
-Lacus laoreet non curabitur gravida arcu ac tortor dignissim convallis. Amet consectetur adipiscing elit duis tristique sollicitudin. Praesent semper feugiat nibh sed pulvinar. Vitae nunc sed velit dignissim sodales ut eu sem integer. Diam sit amet nisl suscipit. Eu augue ut lectus arcu bibendum at varius vel. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Fringilla est ullamcorper eget nulla facilisi etiam dignissim diam. Quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. A pellentesque sit amet porttitor eget dolor morbi. Sapien eget mi proin sed libero. Amet risus nullam eget felis. Tortor vitae purus faucibus ornare suspendisse sed nisi. Non arcu risus quis varius. A arcu cursus vitae congue mauris rhoncus aenean vel. Molestie a iaculis at erat pellentesque adipiscing commodo. Posuere urna nec tincidunt praesent semper feugiat nibh sed pulvinar. Aliquam ultrices sagittis orci a scelerisque purus semper. Integer enim neque volutpat ac tincidunt.
+This website collects references to various cases and issues pertaining to AI and the sociocultural construction of technology.
+
+---
+The website is authored and maintained by [Auli Viidalepp](https://auli.viidalepp.org), Research Fellow in Semiotics at the University of Tartu and a Visiting Researcher at the University of Turin. [ORCID](https://orcid.org/0000-0002-6206-5681)

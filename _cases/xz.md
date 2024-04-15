@@ -31,6 +31,19 @@ Security implications: the vulnerability is not (yet) published as a part of maj
 
 ["xz/liblzma: Bash-stage Obfuscation Explained"](https://gynvael.coldwind.pl/?lang=en&id=782), an initial technical overview of the backdoor's functions by Gynvael Coldwind
 
+TechHara. ‘Possible Backdoor on Your System— Check Your Xz Version Immediately’. Medium (blog). 30 March 2024. [https://medium.com/@techhara/possible-backdoor-on-your-system-check-your-xz-version-immediately-6d91b0b8f17c](https://medium.com/@techhara/possible-backdoor-on-your-system-check-your-xz-version-immediately-6d91b0b8f17c).
+
+
+
+### April 2024
+Hern, Alex. ‘TechScape: How One Man Stopped a Potentially Massive Cyber-Attack – by Accident’. The Guardian, 2 April 2024, sec. Global. [https://www.theguardian.com/global/2024/apr/02/techscape-linux-cyber-attack](https://www.theguardian.com/global/2024/apr/02/techscape-linux-cyber-attack).
+
+
+The Economist. ‘A Stealth Attack Came Close to Compromising the World’s Computers’, 2 April 2024. [https://www.economist.com/science-and-technology/2024/04/02/a-stealth-attack-came-close-to-compromising-the-worlds-computers](https://www.economist.com/science-and-technology/2024/04/02/a-stealth-attack-came-close-to-compromising-the-worlds-computers).
+
+
+Greenberg, Andy. ‘The Mystery of “Jia Tan,” the XZ Backdoor Mastermind’. Wired, 3 April 2024. [https://www.wired.com/story/jia-tan-xz-backdoor/](https://www.wired.com/story/jia-tan-xz-backdoor/).
+
 
 
 ### 12 April 2024

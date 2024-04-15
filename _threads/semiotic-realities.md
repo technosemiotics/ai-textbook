@@ -1,6 +1,6 @@
 ---
 title: negotiating semiotic realities
-permalink: /semiotic-realities/
+permalink: /threads/semiotic-realities/
 ---
 
 

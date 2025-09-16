@@ -46,3 +46,11 @@ Bohannon, Molly. ‘Lawyer Used ChatGPT In Court—And Cited Fake Cases. A Judge
 Milmo, Dan. ‘Two US Lawyers Fined for Submitting Fake Court Citations from ChatGPT’. *The Guardian*, 23 June 2023, sec. Technology. [https://www.theguardian.com/technology/2023/jun/23/two-us-lawyers-fined-submitting-fake-court-citations-chatgpt](https://www.theguardian.com/technology/2023/jun/23/two-us-lawyers-fined-submitting-fake-court-citations-chatgpt).
 
 
+
+## Other cases
+
+Cole, Samantha. 2025. ‘Judges Are Fed up With Lawyers Using AI That Hallucinate Court Cases’. 404 Media. [https://www.404media.co/ai-lawyer-hallucination-sanctions/](https://www.404media.co/ai-lawyer-hallucination-sanctions/) (March 7, 2025).
+
+
+Cole, Samantha. 2025. ‘Lawyers Caught Citing AI-Hallucinated Cases Call It a “Cautionary Tale”’. 404 Media. [https://www.404media.co/lawyers-caught-citing-ai-hallucinated-cases-call-it-a-cautionary-tale/](https://www.404media.co/lawyers-caught-citing-ai-hallucinated-cases-call-it-a-cautionary-tale/) (March 7, 2025).
+

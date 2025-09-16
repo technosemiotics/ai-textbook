@@ -1,6 +1,7 @@
 ---
 title: deepfake problems
 permalink: /df-problems/
+published: false
 ---
 
 # deepfake technology: problems

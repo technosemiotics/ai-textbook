@@ -14,7 +14,7 @@ ul.menu, ul.menu li {list-style-type: none;}
 ul {padding-inline-start: 0; list-style-type: disclosure-closed}
 
 
-a {font-weight: 500;color: darkturquoise; text-decoration: none;}
+a {font-weight: 500;color: darkturquoise!important; text-decoration: none;}
 a:hover,a:focus {font-weight: 500; text-decoration: underline; color: darkcyan;}
 
 strong {color:inherit;}

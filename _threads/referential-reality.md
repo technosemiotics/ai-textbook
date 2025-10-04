@@ -1,6 +1,6 @@
 ---
 title: referential reality
-permalink: /threads/referential-reality/
+permalink: /referential-reality/
 ---
 
 # the referential reality problem

@@ -1,6 +1,6 @@
 ---
 title: interpretive flexibility
-permalink: /threads/interpretive-flexibility/
+permalink: /interpretive-flexibility/
 ---
 
 # interpretive flexibility of technology

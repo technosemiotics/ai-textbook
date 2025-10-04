@@ -1,6 +1,6 @@
 ---
 title: false memories
-permalink: /threads/false-memories/
+permalink: /false-memories/
 published: false
 ---
 

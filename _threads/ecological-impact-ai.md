@@ -1,6 +1,6 @@
 ---
 title: ecological impact of ai
-permalink: /threads/ecological-impact-ai/
+permalink: /ecological-impact-ai/
 published: false
 ---
 

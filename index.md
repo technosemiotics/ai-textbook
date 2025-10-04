@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# ai case collection : text-only version
+# ai textbook: cases & issues
 
 
 This website collects references to various cases and issues pertaining to AI and the sociocultural construction of technology.

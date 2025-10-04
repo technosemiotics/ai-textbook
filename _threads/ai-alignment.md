@@ -1,6 +1,6 @@
 ---
 title: alignment
-parmalink: /threads/ai-alignment/
+parmalink: /ai-alignment/
 published: false
 ---
 

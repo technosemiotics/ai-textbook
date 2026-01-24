@@ -16,6 +16,7 @@ Lawyer cites fake cases invented by ChatGPT, judge is not amused. *Simon Williso
 ‘Order to Show Cause – #31 in Mata v. Avianca, Inc. (S.D.N.Y., 1:22-Cv-01461)’. Date Filed: May 4th, 2023, 5:59 p.m. EDT. *CourtListener*. [https://www.courtlistener.com/docket/63107798/31/mata-v-avianca-inc/](https://www.courtlistener.com/docket/63107798/31/mata-v-avianca-inc/).
 
 - ### 25 May 2023
+
 ‘Affidavit Affidavit of Steven Schwartz – #32, Att. #1 in Mata v. Avianca, Inc. (S.D.N.Y., 1:22-Cv-01461)’. Date Filed: May 25th, 2023, 9:40 a.m. EDT. *CourtListener*. [https://www.courtlistener.com/docket/63107798/32/1/mata-v-avianca-inc/](https://www.courtlistener.com/docket/63107798/32/1/mata-v-avianca-inc/).
 
 
@@ -36,6 +37,7 @@ Davis, Wes. ‘A Lawyer Used ChatGPT and Now Has to Answer for Its “Bogus” C
 
 
 - ### 8 Jun 2023
+
 ‘Memorandum of Law – #49 in Mata v. Avianca, Inc. (S.D.N.Y., 1:22-Cv-01461)’. Date Filed: June 8th, 2023, 9:57 a.m. EDT. *CourtListener*. [https://www.courtlistener.com/docket/63107798/49/mata-v-avianca-inc/](https://www.courtlistener.com/docket/63107798/49/mata-v-avianca-inc/).
 
 
@@ -43,6 +45,7 @@ Bohannon, Molly. ‘Lawyer Used ChatGPT In Court—And Cited Fake Cases. A Judge
 
 
 - ### 23 Jun 2023
+
 Milmo, Dan. ‘Two US Lawyers Fined for Submitting Fake Court Citations from ChatGPT’. *The Guardian*, 23 June 2023, sec. Technology. [https://www.theguardian.com/technology/2023/jun/23/two-us-lawyers-fined-submitting-fake-court-citations-chatgpt](https://www.theguardian.com/technology/2023/jun/23/two-us-lawyers-fined-submitting-fake-court-citations-chatgpt).
 
 

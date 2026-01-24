@@ -1,6 +1,7 @@
 ---
 title: interpretive flexibility
 permalink: /interpretive-flexibility/
+published: false
 ---
 
 # interpretive flexibility of technology

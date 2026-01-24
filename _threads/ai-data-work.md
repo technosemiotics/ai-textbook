@@ -1,6 +1,7 @@
 ---
 title: ai data work industry
 permalink: /ai-data-work/
+published: false
 ---
 
 Resources, overviews, analyses about data work and data workers

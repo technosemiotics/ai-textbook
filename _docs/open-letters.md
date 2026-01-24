@@ -5,6 +5,13 @@ permalink: /open-letters/
 
 # Open Letters about AI
 
+## Amazon Employees for Climate Justice
+
+[Numerous Amazon employees and solidarity signers demanding a responsible rollout of AI](https://www.amazonclimatejustice.org/open-letter)
+
+- Bansal, Varsha. [More than 1,000 Amazon Workers Warn Rapid AI Rollout Threatens Jobs and Climate](https://www.theguardian.com/technology/2025/nov/28/amazon-ai-climate-change). Technology. *The Guardian*, November 28, 2025.
+
+
 
 ## EuroStack initiative
 

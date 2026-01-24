@@ -1,6 +1,7 @@
 ---
 title: computational biochem
 permalink: /computational-biochem/
+published: false
 ---
 
 ## computational protein design
